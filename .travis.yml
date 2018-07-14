@@ -3,9 +3,5 @@ scala:
   - 2.12.6
   - 2.11.12
 jdk:
-  - oraclejdk8
-notifications:
-  webhooks:
-    urls:
-      - https://nulab-inc.com/hubot/travis?room=3741
-    on_success: change
+  - oraclejdk10
+
